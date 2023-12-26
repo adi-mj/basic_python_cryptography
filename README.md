@@ -26,6 +26,9 @@ Encryption: It encodes each character of the input message using a specific form
 Decryption: It reverses the encryption process by performing calculations that involve modular arithmetic and the inverse of the encryption formula.
 
 # XOR Crypter
+
+<img align="right" alt="XOR encryption working" width="350" src="https://149520725.v2.pressablecdn.com/wp-content/uploads/2023/10/A-simulation-of-a-rolling-XOR-encryption.gif" />
+
 This Python script provides simple encryption and decryption functionalities using the XOR operation with a dynamic key. It utilizes the XOR operation to encrypt and decrypt text based on a key generated randomly or provided in hexadecimal format.
 
 ## Usage
