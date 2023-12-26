@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# You are free to use, modify, and distribute this software under the terms of the GPL-3.0 license.
+
 import sys
 
 def encryption(msg):
